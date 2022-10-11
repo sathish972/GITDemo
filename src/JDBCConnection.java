@@ -44,5 +44,9 @@ public class JDBCConnection {
         driver.findElement(By.cssSelector("[type='password']")).sendKeys(results.getString("password"));
         
 	}
+	public void git()
+	{
+		
+	}
 
 }
